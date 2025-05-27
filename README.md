@@ -7,10 +7,6 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
         </li>I'm Dong Seoho, an aspiring **Cloud Engineer** passionate about building scalable and automated cloud infrastructure.  </li>
         Through team projects, I’ve briefly experienced backend development, which led me to explore the world of cloud technologies.</li>
-        </li>Currently focused on:</li>
-        <li> Infrastructure as Code (IaC)</li>
-        <li> Containerization using Docker and Kubernetes</li>
-        <li> CI/CD pipeline automation</li></li>
         📌 "Automate everything. Scale reliably. Keep learning."</li>
     </div> 
 </div>
