@@ -28,6 +28,6 @@
     <img src="https://img.shields.io/badge/OPIc%20(EN)-IM2-blue?style=flat-square&logo=OpenAI&logoColor=white">
     <img src="https://img.shields.io/badge/OPIc%20(JP)-AL-red?style=flat-square&logo=OpenAI&logoColor=white">
     <img src="https://img.shields.io/badge/JLPT-N2-brightgreen?style=flat-square&logo=Japan&logoColor=white">
-    <img src="https://img.shields.io/badge/AWS%20SAA-Certified-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS%20SAA-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white">
   </div>
 </div>
