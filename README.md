@@ -1,4 +1,4 @@
-<div align= "center">
+[<div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=soft&color=0:b7adff,100:94bfff&height=120&text=Hi,%20I'm%20Dong%20Seoho%20&animation=&fontColor=000000&fontSize=40" />
     </div>
     <div align= "center"> 
@@ -20,7 +20,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center">   </div> 
-    </div>
+    </div>](https://github.com/tandpfun/skill-icons?tab=readme-ov-file)
     
 <div align="center">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎓 Certifications </h2>
