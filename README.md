@@ -35,11 +35,20 @@
 
 
 <div align="center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎓 Certifications </h2>
-    <div style="margin: 0 auto; text-align: center;" align="center">
-        <img src="https://img.shields.io/badge/OPIc_(EN)-IM2-blue?style=flat-square&logo=OpenAI&logoColor=white">
-        <img src="https://img.shields.io/badge/OPIc_(JP)-AL-red?style=flat-square&logo=OpenAI&logoColor=white">
-        <img src="https://img.shields.io/badge/JLPT-N2-brightgreen?style=flat-square&logo=Japan&logoColor=white">
-        <img src="https://img.shields.io/badge/AWS_Certified_Solutions_Architect_Associate-FF9900?style=flat-square&logo=Amazon-AWS&logoColor=white">
-    </div>
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎓 Certifications </h2>
+  <div style="margin: 0 auto; text-align: center;" align="center">
+    <img src="https://img.shields.io/badge/OPIc_(EN)-IM2-blue?style=flat-square&logo=OpenAI&logoColor=white">
+    <img src="https://img.shields.io/badge/OPIc_(JP)-AL-red?style=flat-square&logo=OpenAI&logoColor=white">
+    <img src="https://img.shields.io/badge/JLPT-N2-brightgreen?style=flat-square&logo=Japan&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS_Certified_Solutions_Architect_Associate-FF9900?style=flat-square&logo=Amazon-AWS&logoColor=white">
+  </div>
+
+  <br>
+  <h4 style="color: #c9d1d9;">📝 Currently Preparing</h4>
+  <div style="margin: 0 auto; text-align: center;" align="center">
+    <img src="https://img.shields.io/badge/LPIC--1-In%20Progress-blueviolet?style=flat-square&logo=Linux&logoColor=white">
+    <img src="https://img.shields.io/badge/CKA-In%20Progress-326CE5?style=flat-square&logo=Kubernetes&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS_Certified_AI_Practitioner-In%20Progress-FF9900?style=flat-square&logo=Amazon-AWS&logoColor=white">
+  </div>
 </div>
+
