@@ -22,3 +22,12 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center">   </div> 
     </div>
     
+<div align="center">
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎓 Certifications </h2>
+  <div style="margin: 0 auto; text-align: center;" align="center">
+    <img src="https://img.shields.io/badge/OPIc%20(EN)-IM2-blue?style=flat-square&logo=OpenAI&logoColor=white">
+    <img src="https://img.shields.io/badge/OPIc%20(JP)-AL-red?style=flat-square&logo=OpenAI&logoColor=white">
+    <img src="https://img.shields.io/badge/JLPT-N2-brightgreen?style=flat-square&logo=Japan&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS%20SAA-Certified-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white">
+  </div>
+</div>
