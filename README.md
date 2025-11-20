@@ -32,7 +32,6 @@
 <div align="center">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎓 Certifications </h2>
   <div style="margin: 0 auto; text-align: center;" align="center">
-    <img src="https://img.shields.io/badge/OPIc_(EN)-IM2-blue?style=flat-square&logo=OpenAI&logoColor=white">
     <img src="https://img.shields.io/badge/OPIc_(JP)-AL-red?style=flat-square&logo=OpenAI&logoColor=white">
     <img src="https://img.shields.io/badge/JLPT-N2-brightgreen?style=flat-square&logo=Japan&logoColor=white">
     <img src="https://img.shields.io/badge/AWS_Certified_Solutions_Architect_Associate-FF9900?style=flat-square&logo=Amazon-AWS&logoColor=white">
