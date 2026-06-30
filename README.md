@@ -1,13 +1,12 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=soft&color=0:b7adff,100:94bfff&height=120&text=Hi,%20I'm%20Dong%20Seoho%20&animation=&fontColor=000000&fontSize=40" />
 </div>
-
-<div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ## 👨‍💻 About Me </h2>  
+<div align="center"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">👨‍💻 About Me</h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
-        </li>I'm Dong Seoho, an aspiring **Cloud Engineer** passionate about building scalable and automated cloud infrastructure.  </li>
-        Through team projects, I’ve briefly experienced backend development, which led me to explore the world of cloud technologies.</li>
-        📌 "Automate everything. Scale reliably. Keep learning."</li>
+        I'm Dong Seoho, currently working as a <strong>Cloud Engineer</strong> at Mynavi.<br>
+        I am passionate about building scalable, reliable, and automated cloud infrastructure.<br>
+        Through team projects, I have gained experience in backend development, which naturally led me to explore cloud technologies.<br><br>
     </div> 
 </div>
 
@@ -16,6 +15,8 @@
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
         <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=Terraform&logoColor=white">
         <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
